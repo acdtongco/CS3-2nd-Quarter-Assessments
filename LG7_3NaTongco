@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+    <meta charset= "UTF-8">
+    <meta name= "author" content = "Clark Tongco">
+    <meta name= "keywords" content="HTML, CSS, JavaScript">
+    <meta name= "date" content="Dec. 15, 2021">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>LG7_3NaTongco</title>
+<style>
+    .sprite {
+        width: 32px;
+        height: 32px;
+        background: url(googlechrome.png) no-repeat;
+    }
+    .sprite:hover {
+        background: url(googlechromegray.png) no-repeat;
+    }
+</style>
+</head>
+<body>
+    <div class="sprite"><a href="https://www.google.com"><img class="sprite"></a><div>
+</body>
+</html>
